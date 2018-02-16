@@ -1,0 +1,12 @@
+h1 img{
+	width: 100%;
+}
+
+#note-body{
+	resize: none;
+	height: 420px;
+}
+
+#accordion{
+	height: 500px;
+}
